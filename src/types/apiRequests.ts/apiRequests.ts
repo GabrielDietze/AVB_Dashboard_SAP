@@ -1,0 +1,1 @@
+// implementar interfaces para as requisições de API futuramente, quando for necessário enviar dados para o sap
